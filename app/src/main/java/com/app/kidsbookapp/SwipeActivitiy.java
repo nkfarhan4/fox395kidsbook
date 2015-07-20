@@ -259,9 +259,6 @@ public class SwipeActivitiy extends Activity implements OnClickListener {
 						});
 					}
 
-
-
-
 						if(category.equals("alphabet")){
 						callAlphabet();
 					}else if(category.equals("number")){
