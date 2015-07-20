@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidProjects\KidsBook_code\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="D:\AndroidProjects\KidsBook_code\app\build\intermediates\pre-dexed\debug\classes-1207e0453cf105a8e0ee6a1bfd780f517c9cca1d.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\KidsBook_code\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="D:\AndroidProjects\KidsBook_code\app\build\intermediates\pre-dexed\debug\classes-d461e079e82d7ed66834d3ed666ba45e727318e6.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\KidsBook_code\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="D:\AndroidProjects\KidsBook_code\app\build\intermediates\pre-dexed\debug\classes-04e4fd0981618bd739152280e2d70634ca7ee119.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\KidsBook_code\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="D:\AndroidProjects\KidsBook_code\app\build\intermediates\pre-dexed\debug\classes-8244976fa2318740a2adcdfe1df4d990b1a34874.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\KidsBook_code\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="D:\AndroidProjects\KidsBook_code\app\build\intermediates\pre-dexed\debug\classes-f6fc61682c08988fe3ec38bfe5f606c699869c22.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\KidsBook_code\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="D:\AndroidProjects\KidsBook_code\app\build\intermediates\pre-dexed\debug\classes-0be97af490e6de1da09a4c8798d6c67801ac857e.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\KidsBook_code\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="D:\AndroidProjects\KidsBook_code\app\build\intermediates\pre-dexed\debug\classes-32256313ce306498003731219396fa133bac0921.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\KidsBook_code\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="D:\AndroidProjects\KidsBook_code\app\build\intermediates\pre-dexed\debug\classes-26d642fcf24a2792de724e614d7612148a54b69e.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\KidsBook_code\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="D:\AndroidProjects\KidsBook_code\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-d393268ec6dde8c90295569bb0e110a318cf9628.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\KidsBook_code\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="D:\AndroidProjects\KidsBook_code\app\build\intermediates\pre-dexed\debug\classes-436eeb044904fb5d2fe88a941a103720511836c1.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\KidsBook_code\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="D:\AndroidProjects\KidsBook_code\app\build\intermediates\pre-dexed\debug\classes-123c9e121019befa1d404f68add00fdf0460d80c.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\KidsBook_code\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="D:\AndroidProjects\KidsBook_code\app\build\intermediates\pre-dexed\debug\classes-b282c68265a1177e64b0d3409ec9aa197b65324b.jar" />
+    </item>
+    <item
+        jar="D:\Android-SDK\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="D:\AndroidProjects\KidsBook_code\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-465b1b44bd99dc0679a2b5beab3148adfeaad686.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\KidsBook_code\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="D:\AndroidProjects\KidsBook_code\app\build\intermediates\pre-dexed\debug\classes-60e3450b6b35439ee4786825f2aefff76cfdddda.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\KidsBook_code\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="D:\AndroidProjects\KidsBook_code\app\build\intermediates\pre-dexed\debug\classes-6233994d7beae514423d9274fa3ce8c8052f9809.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\KidsBook_code\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="D:\AndroidProjects\KidsBook_code\app\build\intermediates\pre-dexed\debug\classes-8f26e4d0fdf9a43887949c63da488d1fefcfc54b.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\KidsBook_code\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="D:\AndroidProjects\KidsBook_code\app\build\intermediates\pre-dexed\debug\classes-e4bd353efb4d7b328273c727ac0b378ce72c60a0.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\KidsBook_code\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="D:\AndroidProjects\KidsBook_code\app\build\intermediates\pre-dexed\debug\classes-f25884dd31d6708a9effae5dcafa227a84902bce.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\KidsBook_code\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="D:\AndroidProjects\KidsBook_code\app\build\intermediates\pre-dexed\debug\classes-be328df24cb6cfc181fdebaeb09a5d5184774c83.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\KidsBook_code\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="D:\AndroidProjects\KidsBook_code\app\build\intermediates\pre-dexed\debug\classes-19ee8f5a82f66584e7d56062811708f375e14405.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\KidsBook_code\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="D:\AndroidProjects\KidsBook_code\app\build\intermediates\pre-dexed\debug\classes-176884dd4eb30eea4942f3d3839cabc9f2bc77bd.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\KidsBook_code\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="D:\AndroidProjects\KidsBook_code\app\build\intermediates\pre-dexed\debug\classes-d7d3e8749a2bb21d1eec4ad6e98d7e59ccb30a2f.jar" />
+    </item>
+
+</items>
