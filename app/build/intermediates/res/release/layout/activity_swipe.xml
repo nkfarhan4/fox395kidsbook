@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gre" >
+
+    <RelativeLayout
+        android:id="@+id/rel_top"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentTop="true" 
+        android:background="@drawable/headerlayer">
+
+        <ImageView
+            android:id="@+id/imageView_home"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dp"
+            android:src="@drawable/home" />
+
+        <TextView
+            android:id="@+id/textView_categoryname"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="10dp"
+            android:gravity="center_horizontal|center_vertical"
+            android:text="My First Book"
+            android:textColor="@android:color/white"
+            android:textSize="30sp"
+            android:textStyle="italic" 
+            android:singleLine="true"/>
+        
+         <ImageView
+            android:id="@+id/img_star_swipe"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp" 
+            android:src="@drawable/star_icon"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rel_touch"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/rel_bottom"
+        android:layout_below="@+id/rel_top"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/txHeadingItem"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="18dp"
+            android:text="Medium Text"
+            android:textColor="@color/lightred"
+            android:textSize="35sp"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <ImageView
+            android:id="@+id/imageView_categoryimage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:background="@drawable/settings" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rel_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true" 
+        android:gravity="center">
+    </RelativeLayout>
+
+</RelativeLayout><!-- From: file:/D:/AndroidProjects/KidsBook_code/app/src/main/res/layout/activity_swipe.xml -->
