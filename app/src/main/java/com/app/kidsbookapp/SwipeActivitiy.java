@@ -279,6 +279,7 @@ public class SwipeActivitiy extends Activity implements OnClickListener {
 						setPob();
 					}else if(category.equals("vehicle")){
 						setVehicle();
+
 					}
 
 				}  else if (e2.getX() - e1.getX() > SWIPE_MIN_DISTANCE && Math.abs(velocityX) > SWIPE_THRESHOLD_VELOCITY) {
